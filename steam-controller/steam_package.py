@@ -10,7 +10,8 @@ import remapPackage from steam_package
                     "vid_codec64",
                     "vid_codec32",
                     "xp_installer",
-                    "sh_reloader"
+                    "sh_reloader",
+                    "win_scroot"
     
 
     }
