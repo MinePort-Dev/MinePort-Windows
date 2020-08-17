@@ -2,23 +2,22 @@
 
 # Navigation
 
-  1. [Installing the repository](https://github.com/maccree/MinePort#installing-the-repository)
-  2. [Preparing for the game](https://github.com/maccree/MinePort#preparing-for-the-game)
-  2.1. [PC](https://github.com/maccree/MinePort#1-pc)
-  2.2. [Mobile device](https://github.com/maccree/MinePort#2mobile-device)
-  3. [What versions does the program run on?](https://github.com/maccree/MinePort#what-versions-does-the-program-run-on)
-  4. [What OS does it work on?](https://github.com/maccree/MinePort#what-os-does-it-work-on)
-  5. [How to update?](https://github.com/maccree/MinePort#how-to-update)
-  6. [Changes in the releases](https://github.com/maccree/MinePort#changes-in-the-releases)
-  7. [Any more questions?](https://github.com/maccree/MinePort#any-more-questions)
+  1. [Installing the repository](https://github.com/MinePort-Dev/MinePort-Windows#installing-the-repository)
+  2. [Preparing for the game](https://github.com/MinePort-Dev/MinePort-Windows#preparing-for-the-game)
+  3. [What versions does the program run on?](https://github.com/MinePort-Dev/MinePort-Windows#what-versions-does-the-program-run-on)
+  5. [How to update?](https://github.com/MinePort-Dev/MinePort-Windows#how-to-update)
+  7. [Any more questions?](https://github.com/MinePort-Dev/MinePort-Windows#any-more-questions)
 
 
 # Installing the repository
 
-There is nothing complicated here. Just clone the repository(or download one of the available [releases](https://github.com/maccree/MinePort/releases) in .ZIP format) to the minecraft folder ( ./minecraft):
+Install the repository via git:
 ```bash
-$ git clone https://github.com/maccree/MinePort.git
+$ git clone https://github.com/MinePort-Dev/MinePort-Installer.git
 ```
+or via ZIP
+
+Next, put the Miniport folder in the folder ./minecraft
 
 ### ATTENTION THIS IS IMPORTANT: First, throw the repository in the folder with minecraft, and only then add minecraft to the Steam library
 
