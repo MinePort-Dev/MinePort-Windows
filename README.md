@@ -55,32 +55,16 @@ Go to settings and change the control to the one that will be convenient for you
 
 # What versions does the program run on?
 
-From 1.12 to 1.16.3
+From 1.12 to 1.16.2
 
-# What OS does it work on?
-
-On Windows, Linux and MacOS/FreeBSD
 
 # How to update?
 
 Be sure to install git -> [Download](https://git-scm.com/)
 
-## For Windows:
-Run the update_windows.bat for the administrator name!
+And run the ```updater.bat```
 
-## For Unix:
-```$ sh ./minecraft/MinePort/update_linux.sh```
-
-# Changes in the releases
-```
-v1.0.4beta
-
-- change in the wine loading configs
-- adding directx support
-
-
-```
 
 # Any more questions?
 
-Write to me by telegram([@alderoo](http://t.me/alderoo)) or email(maccree.a@yandex.com)!
+Write to me by telegram([@alderoo](http://t.me/alderoo))
