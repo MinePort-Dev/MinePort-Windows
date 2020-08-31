@@ -6,7 +6,7 @@
   2. [Preparing for the game](https://github.com/MinePort-Dev/MinePort-Windows#preparing-for-the-game)
   3. [What versions does the program run on?](https://github.com/MinePort-Dev/MinePort-Windows#what-versions-does-the-program-run-on)
   5. [How to update?](https://github.com/MinePort-Dev/MinePort-Windows#how-to-update)
-  7. [Any more questions?](https://github.com/MinePort-Dev/MinePort-Windows#any-more-questions)
+  7. [Any more questions?]https://github.com/MinePort-Dev/MinePort-Windows#support)
 
 
 # Installing the repository
