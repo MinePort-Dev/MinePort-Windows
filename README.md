@@ -64,6 +64,10 @@ Be sure to install git -> [Download](https://git-scm.com/)
 And run the ```updater.bat```
 
 
-# Any more questions?
+# Support
 
-Write to me by telegram([@alderoo](http://t.me/alderoo))
+<div>
+  <a target="_blank" href="https://discord.gg/7xrxJta" title="Join our Discord!">
+    <img height="75px" draggable="false" src="https://media.discordapp.net/attachments/749281232554164234/750060979802603672/IMG_5231.JPG" alt="Join our Discord!">
+  </a>
+</div>
